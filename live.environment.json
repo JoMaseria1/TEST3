@@ -9,24 +9,24 @@
 		},
 		{
 			"key": "identifier",
-			"value": "ENTER_YOUR_EMAIL",
+			"value": "josemaria.rguez@outlook.com",
 			"enabled": true
 		},
 		{
 			"key": "password",
-			"value": "ENTER_YOUR_PASSWORD",
+			"value": "FqPTdsv*u>z85yQxbXwh",
 			"type": "secret",
 			"enabled": true
 		},
 		{
 			"key": "encryptedPassword",
-			"value": "ENTER_YOUR_ENCRYPTED_PASSWORD",
+			"value": "FqPTdsv*u>z85yQxbXwh",
 			"type": "secret",
 			"enabled": true
 		},
 		{
 			"key": "X-CAP-API-KEY",
-			"value": "ENTER_GENERATED_API_KEY",
+			"value": "ezb7XNwl5FmxQvhK",
 			"type": "secret",
 			"enabled": true
 		},
